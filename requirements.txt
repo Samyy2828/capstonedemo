@@ -1,11 +1,9 @@
 streamlit
 fuzzywuzzy
-playsound
-SpeechRecognition
 gTTS
-googletrans==4.0.0-rc1
 Pillow
 pandas
 qrcode
 matplotlib
 networkx
+googletrans==4.0.0-rc1  # Or switch to deep-translator
