@@ -1,0 +1,1148 @@
+Source,Destination,Distance (km),Fare
+Chhatrapati Shivaji Maharaj Terminus,Masjid,1.0,5
+Chhatrapati Shivaji Maharaj Terminus,Sandhurst Road,2.2,5
+Chhatrapati Shivaji Maharaj Terminus,Byculla,3.7,5
+Chhatrapati Shivaji Maharaj Terminus,Chinchpokli,5.2,10
+Chhatrapati Shivaji Maharaj Terminus,Currey Road,6.2,10
+Chhatrapati Shivaji Maharaj Terminus,Parel,7.7,10
+Chhatrapati Shivaji Maharaj Terminus,Dadar,9.2,10
+Chhatrapati Shivaji Maharaj Terminus,Matunga,10.7,15
+Chhatrapati Shivaji Maharaj Terminus,Sion,11.7,15
+Chhatrapati Shivaji Maharaj Terminus,Kurla,13.7,15
+Chhatrapati Shivaji Maharaj Terminus,Vidyavihar,15.5,15
+Chhatrapati Shivaji Maharaj Terminus,Ghatkopar,17.5,15
+Chhatrapati Shivaji Maharaj Terminus,Vikhroli,20.5,20
+Chhatrapati Shivaji Maharaj Terminus,Kanjur Marg,22.5,20
+Chhatrapati Shivaji Maharaj Terminus,Bhandup,25.0,20
+Chhatrapati Shivaji Maharaj Terminus,Nahur,27.0,20
+Chhatrapati Shivaji Maharaj Terminus,Mulund,29.0,20
+Chhatrapati Shivaji Maharaj Terminus,Thane,34.0,25
+Chhatrapati Shivaji Maharaj Terminus,Kalwa,40.0,25
+Chhatrapati Shivaji Maharaj Terminus,Mumbra,42.0,25
+Chhatrapati Shivaji Maharaj Terminus,Diva Junction,48.0,25
+Chhatrapati Shivaji Maharaj Terminus,Kopar,52.0,25
+Chhatrapati Shivaji Maharaj Terminus,Dombivli,54.5,25
+Chhatrapati Shivaji Maharaj Terminus,Thakurli,57.0,25
+Chhatrapati Shivaji Maharaj Terminus,Kalyan Junction,61.0,25
+Chhatrapati Shivaji Maharaj Terminus,Dockyard Road,3.7,5
+Chhatrapati Shivaji Maharaj Terminus,Reay Road,5.2,10
+Chhatrapati Shivaji Maharaj Terminus,Cotton Green,6.4,10
+Chhatrapati Shivaji Maharaj Terminus,Sewri,7.5,10
+Chhatrapati Shivaji Maharaj Terminus,Wadala Road,8.7,10
+Chhatrapati Shivaji Maharaj Terminus,Guru Tegh Bahadur Nagar,10.2,15
+Chhatrapati Shivaji Maharaj Terminus,Chunabhatti,11.7,15
+Chhatrapati Shivaji Maharaj Terminus,Tilak Nagar,14.7,15
+Chhatrapati Shivaji Maharaj Terminus,Chembur,16.2,15
+Chhatrapati Shivaji Maharaj Terminus,Mankhurd,18.7,15
+Chhatrapati Shivaji Maharaj Terminus,Vashi,20.7,20
+Chhatrapati Shivaji Maharaj Terminus,Sanpada,22.7,20
+Chhatrapati Shivaji Maharaj Terminus,Panvel,26.2,20
+Masjid,Sandhurst Road,1.2,5
+Masjid,Byculla,2.7,5
+Masjid,Chinchpokli,4.2,5
+Masjid,Currey Road,5.2,10
+Masjid,Parel,6.7,10
+Masjid,Dadar,8.2,10
+Masjid,Matunga,9.7,10
+Masjid,Sion,10.7,15
+Masjid,Kurla,12.7,15
+Masjid,Vidyavihar,14.5,15
+Masjid,Ghatkopar,16.5,15
+Masjid,Vikhroli,19.5,15
+Masjid,Kanjur Marg,21.5,20
+Masjid,Bhandup,24.0,20
+Masjid,Nahur,26.0,20
+Masjid,Mulund,28.0,20
+Masjid,Thane,33.0,25
+Masjid,Kalwa,39.0,25
+Masjid,Mumbra,41.0,25
+Masjid,Diva Junction,47.0,25
+Masjid,Kopar,51.0,25
+Masjid,Dombivli,53.5,25
+Masjid,Thakurli,56.0,25
+Masjid,Kalyan Junction,60.0,25
+Masjid,Dockyard Road,2.7,5
+Masjid,Reay Road,4.2,5
+Masjid,Cotton Green,5.4,10
+Masjid,Sewri,6.5,10
+Masjid,Wadala Road,7.7,10
+Masjid,Guru Tegh Bahadur Nagar,9.2,10
+Masjid,Chunabhatti,10.7,15
+Masjid,Tilak Nagar,13.7,15
+Masjid,Chembur,15.2,15
+Masjid,Mankhurd,17.7,15
+Masjid,Vashi,19.7,15
+Masjid,Sanpada,21.7,20
+Masjid,Panvel,25.2,20
+Sandhurst Road,Byculla,1.5,5
+Sandhurst Road,Chinchpokli,3.0,5
+Sandhurst Road,Currey Road,4.0,5
+Sandhurst Road,Parel,5.5,10
+Sandhurst Road,Dadar,7.0,10
+Sandhurst Road,Matunga,8.5,10
+Sandhurst Road,Sion,9.5,10
+Sandhurst Road,Kurla,11.5,15
+Sandhurst Road,Vidyavihar,13.3,15
+Sandhurst Road,Ghatkopar,15.3,15
+Sandhurst Road,Vikhroli,18.3,15
+Sandhurst Road,Kanjur Marg,20.3,20
+Sandhurst Road,Bhandup,22.8,20
+Sandhurst Road,Nahur,24.8,20
+Sandhurst Road,Mulund,26.8,20
+Sandhurst Road,Thane,31.8,25
+Sandhurst Road,Kalwa,37.8,25
+Sandhurst Road,Mumbra,39.8,25
+Sandhurst Road,Diva Junction,45.8,25
+Sandhurst Road,Kopar,49.8,25
+Sandhurst Road,Dombivli,52.3,25
+Sandhurst Road,Thakurli,54.8,25
+Sandhurst Road,Kalyan Junction,58.8,25
+Sandhurst Road,Dockyard Road,1.5,5
+Sandhurst Road,Reay Road,3.0,5
+Sandhurst Road,Cotton Green,4.2,5
+Sandhurst Road,Sewri,5.3,10
+Sandhurst Road,Wadala Road,6.5,10
+Sandhurst Road,Guru Tegh Bahadur Nagar,8.0,10
+Sandhurst Road,Chunabhatti,9.5,10
+Sandhurst Road,Tilak Nagar,12.5,15
+Sandhurst Road,Chembur,14.0,15
+Sandhurst Road,Mankhurd,16.5,15
+Sandhurst Road,Vashi,18.5,15
+Sandhurst Road,Sanpada,20.5,20
+Sandhurst Road,Panvel,24.0,20
+Byculla,Chinchpokli,1.5,5
+Byculla,Currey Road,2.5,5
+Byculla,Parel,4.0,5
+Byculla,Dadar,5.5,10
+Byculla,Matunga,7.0,10
+Byculla,Sion,8.0,10
+Byculla,Kurla,11.0,15
+Byculla,Vidyavihar,12.8,15
+Byculla,Ghatkopar,14.8,15
+Byculla,Vikhroli,17.8,15
+Byculla,Kanjur Marg,19.8,15
+Byculla,Bhandup,22.3,20
+Byculla,Nahur,24.3,20
+Byculla,Mulund,26.3,20
+Byculla,Thane,31.3,25
+Byculla,Kalwa,37.3,25
+Byculla,Mumbra,39.3,25
+Byculla,Diva Junction,45.3,25
+Byculla,Kopar,49.3,25
+Byculla,Dombivli,51.8,25
+Byculla,Thakurli,54.3,25
+Byculla,Kalyan Junction,58.3,25
+Byculla,Dockyard Road,3.0,5
+Byculla,Reay Road,4.5,5
+Byculla,Cotton Green,5.7,10
+Byculla,Sewri,6.8,10
+Byculla,Wadala Road,8.0,10
+Byculla,Guru Tegh Bahadur Nagar,9.5,10
+Byculla,Chunabhatti,11.0,15
+Byculla,Tilak Nagar,12.0,15
+Byculla,Chembur,13.5,15
+Byculla,Mankhurd,16.0,15
+Byculla,Vashi,18.0,15
+Byculla,Sanpada,20.0,15
+Byculla,Panvel,23.5,20
+Chinchpokli,Currey Road,1.0,5
+Chinchpokli,Parel,2.5,5
+Chinchpokli,Dadar,4.0,5
+Chinchpokli,Matunga,5.5,10
+Chinchpokli,Sion,6.5,10
+Chinchpokli,Kurla,9.5,10
+Chinchpokli,Vidyavihar,11.3,15
+Chinchpokli,Ghatkopar,13.3,15
+Chinchpokli,Vikhroli,16.3,15
+Chinchpokli,Kanjur Marg,18.3,15
+Chinchpokli,Bhandup,20.8,20
+Chinchpokli,Nahur,22.8,20
+Chinchpokli,Mulund,24.8,20
+Chinchpokli,Thane,29.8,20
+Chinchpokli,Kalwa,35.8,25
+Chinchpokli,Mumbra,37.8,25
+Chinchpokli,Diva Junction,43.8,25
+Chinchpokli,Kopar,47.8,25
+Chinchpokli,Dombivli,50.3,25
+Chinchpokli,Thakurli,52.8,25
+Chinchpokli,Kalyan Junction,56.8,25
+Chinchpokli,Dockyard Road,4.5,5
+Chinchpokli,Reay Road,6.0,10
+Chinchpokli,Cotton Green,7.2,10
+Chinchpokli,Sewri,8.3,10
+Chinchpokli,Wadala Road,9.5,10
+Chinchpokli,Guru Tegh Bahadur Nagar,11.0,15
+Chinchpokli,Chunabhatti,11.5,15
+Chinchpokli,Tilak Nagar,10.5,15
+Chinchpokli,Chembur,12.0,15
+Chinchpokli,Mankhurd,14.5,15
+Chinchpokli,Vashi,16.5,15
+Chinchpokli,Sanpada,18.5,15
+Chinchpokli,Panvel,22.0,20
+Currey Road,Parel,1.5,5
+Currey Road,Dadar,3.0,5
+Currey Road,Matunga,4.5,5
+Currey Road,Sion,5.5,10
+Currey Road,Kurla,8.5,10
+Currey Road,Vidyavihar,10.3,15
+Currey Road,Ghatkopar,12.3,15
+Currey Road,Vikhroli,15.3,15
+Currey Road,Kanjur Marg,17.3,15
+Currey Road,Bhandup,19.8,15
+Currey Road,Nahur,21.8,20
+Currey Road,Mulund,23.8,20
+Currey Road,Thane,28.8,20
+Currey Road,Kalwa,34.8,25
+Currey Road,Mumbra,36.8,25
+Currey Road,Diva Junction,42.8,25
+Currey Road,Kopar,46.8,25
+Currey Road,Dombivli,49.3,25
+Currey Road,Thakurli,51.8,25
+Currey Road,Kalyan Junction,55.8,25
+Currey Road,Dockyard Road,5.5,10
+Currey Road,Reay Road,7.0,10
+Currey Road,Cotton Green,8.2,10
+Currey Road,Sewri,9.3,10
+Currey Road,Wadala Road,10.5,15
+Currey Road,Guru Tegh Bahadur Nagar,12.0,15
+Currey Road,Chunabhatti,10.5,15
+Currey Road,Tilak Nagar,9.5,10
+Currey Road,Chembur,11.0,15
+Currey Road,Mankhurd,13.5,15
+Currey Road,Vashi,15.5,15
+Currey Road,Sanpada,17.5,15
+Currey Road,Panvel,21.0,20
+Parel,Dadar,1.5,5
+Parel,Matunga,3.0,5
+Parel,Sion,4.0,5
+Parel,Kurla,7.0,10
+Parel,Vidyavihar,8.8,10
+Parel,Ghatkopar,10.8,15
+Parel,Vikhroli,13.8,15
+Parel,Kanjur Marg,15.8,15
+Parel,Bhandup,18.3,15
+Parel,Nahur,20.3,20
+Parel,Mulund,22.3,20
+Parel,Thane,27.3,20
+Parel,Kalwa,33.3,25
+Parel,Mumbra,35.3,25
+Parel,Diva Junction,41.3,25
+Parel,Kopar,45.3,25
+Parel,Dombivli,47.8,25
+Parel,Thakurli,50.3,25
+Parel,Kalyan Junction,54.3,25
+Parel,Dockyard Road,7.0,10
+Parel,Reay Road,8.5,10
+Parel,Cotton Green,9.7,10
+Parel,Sewri,10.8,15
+Parel,Wadala Road,12.0,15
+Parel,Guru Tegh Bahadur Nagar,10.5,15
+Parel,Chunabhatti,9.0,10
+Parel,Tilak Nagar,8.0,10
+Parel,Chembur,9.5,10
+Parel,Mankhurd,12.0,15
+Parel,Vashi,14.0,15
+Parel,Sanpada,16.0,15
+Parel,Panvel,19.5,15
+Dadar,Matunga,1.5,5
+Dadar,Sion,2.5,5
+Dadar,Kurla,5.5,10
+Dadar,Vidyavihar,7.3,10
+Dadar,Ghatkopar,9.3,10
+Dadar,Vikhroli,12.3,15
+Dadar,Kanjur Marg,14.3,15
+Dadar,Bhandup,16.8,15
+Dadar,Nahur,18.8,15
+Dadar,Mulund,20.8,20
+Dadar,Thane,25.8,20
+Dadar,Kalwa,31.8,25
+Dadar,Mumbra,33.8,25
+Dadar,Diva Junction,39.8,25
+Dadar,Kopar,43.8,25
+Dadar,Dombivli,46.3,25
+Dadar,Thakurli,48.8,25
+Dadar,Kalyan Junction,52.8,25
+Dadar,Dockyard Road,8.5,10
+Dadar,Reay Road,10.0,10
+Dadar,Cotton Green,11.2,15
+Dadar,Sewri,11.7,15
+Dadar,Wadala Road,10.5,15
+Dadar,Guru Tegh Bahadur Nagar,9.0,10
+Dadar,Chunabhatti,7.5,10
+Dadar,Tilak Nagar,6.5,10
+Dadar,Chembur,8.0,10
+Dadar,Mankhurd,10.5,15
+Dadar,Vashi,12.5,15
+Dadar,Sanpada,14.5,15
+Dadar,Panvel,18.0,15
+Matunga,Sion,1.0,5
+Matunga,Kurla,4.0,5
+Matunga,Vidyavihar,5.8,10
+Matunga,Ghatkopar,7.8,10
+Matunga,Vikhroli,10.8,15
+Matunga,Kanjur Marg,12.8,15
+Matunga,Bhandup,15.3,15
+Matunga,Nahur,17.3,15
+Matunga,Mulund,19.3,15
+Matunga,Thane,24.3,20
+Matunga,Kalwa,30.3,25
+Matunga,Mumbra,32.3,25
+Matunga,Diva Junction,38.3,25
+Matunga,Kopar,42.3,25
+Matunga,Dombivli,44.8,25
+Matunga,Thakurli,47.3,25
+Matunga,Kalyan Junction,51.3,25
+Matunga,Dockyard Road,10.0,10
+Matunga,Reay Road,11.5,15
+Matunga,Cotton Green,11.3,15
+Matunga,Sewri,10.2,15
+Matunga,Wadala Road,9.0,10
+Matunga,Guru Tegh Bahadur Nagar,7.5,10
+Matunga,Chunabhatti,6.0,10
+Matunga,Tilak Nagar,5.0,5
+Matunga,Chembur,6.5,10
+Matunga,Mankhurd,9.0,10
+Matunga,Vashi,11.0,15
+Matunga,Sanpada,13.0,15
+Matunga,Panvel,16.5,15
+Sion,Kurla,3.0,5
+Sion,Vidyavihar,4.8,5
+Sion,Ghatkopar,6.8,10
+Sion,Vikhroli,9.8,10
+Sion,Kanjur Marg,11.8,15
+Sion,Bhandup,14.3,15
+Sion,Nahur,16.3,15
+Sion,Mulund,18.3,15
+Sion,Thane,23.3,20
+Sion,Kalwa,29.3,20
+Sion,Mumbra,31.3,25
+Sion,Diva Junction,37.3,25
+Sion,Kopar,41.3,25
+Sion,Dombivli,43.8,25
+Sion,Thakurli,46.3,25
+Sion,Kalyan Junction,50.3,25
+Sion,Dockyard Road,11.0,15
+Sion,Reay Road,11.5,15
+Sion,Cotton Green,10.3,15
+Sion,Sewri,9.2,10
+Sion,Wadala Road,8.0,10
+Sion,Guru Tegh Bahadur Nagar,6.5,10
+Sion,Chunabhatti,5.0,5
+Sion,Tilak Nagar,4.0,5
+Sion,Chembur,5.5,10
+Sion,Mankhurd,8.0,10
+Sion,Vashi,10.0,10
+Sion,Sanpada,12.0,15
+Sion,Panvel,15.5,15
+Kurla,Vidyavihar,1.8,5
+Kurla,Ghatkopar,3.8,5
+Kurla,Vikhroli,6.8,10
+Kurla,Kanjur Marg,8.8,10
+Kurla,Bhandup,11.3,15
+Kurla,Nahur,13.3,15
+Kurla,Mulund,15.3,15
+Kurla,Thane,20.3,20
+Kurla,Kalwa,26.3,20
+Kurla,Mumbra,28.3,20
+Kurla,Diva Junction,34.3,25
+Kurla,Kopar,38.3,25
+Kurla,Dombivli,40.8,25
+Kurla,Thakurli,43.3,25
+Kurla,Kalyan Junction,47.3,25
+Kurla,Dockyard Road,10.0,10
+Kurla,Reay Road,8.5,10
+Kurla,Cotton Green,7.3,10
+Kurla,Sewri,6.2,10
+Kurla,Wadala Road,5.0,5
+Kurla,Guru Tegh Bahadur Nagar,3.5,5
+Kurla,Chunabhatti,2.0,5
+Kurla,Tilak Nagar,1.0,5
+Kurla,Chembur,2.5,5
+Kurla,Mankhurd,5.0,5
+Kurla,Vashi,7.0,10
+Kurla,Sanpada,9.0,10
+Kurla,Panvel,12.5,15
+Vidyavihar,Ghatkopar,2.0,5
+Vidyavihar,Vikhroli,5.0,5
+Vidyavihar,Kanjur Marg,7.0,10
+Vidyavihar,Bhandup,9.5,10
+Vidyavihar,Nahur,11.5,15
+Vidyavihar,Mulund,13.5,15
+Vidyavihar,Thane,18.5,15
+Vidyavihar,Kalwa,24.5,20
+Vidyavihar,Mumbra,26.5,20
+Vidyavihar,Diva Junction,32.5,25
+Vidyavihar,Kopar,36.5,25
+Vidyavihar,Dombivli,39.0,25
+Vidyavihar,Thakurli,41.5,25
+Vidyavihar,Kalyan Junction,45.5,25
+Vidyavihar,Dockyard Road,11.8,15
+Vidyavihar,Reay Road,10.3,15
+Vidyavihar,Cotton Green,9.1,10
+Vidyavihar,Sewri,8.0,10
+Vidyavihar,Wadala Road,6.8,10
+Vidyavihar,Guru Tegh Bahadur Nagar,5.3,10
+Vidyavihar,Chunabhatti,3.8,5
+Vidyavihar,Tilak Nagar,2.8,5
+Vidyavihar,Chembur,4.3,5
+Vidyavihar,Mankhurd,6.8,10
+Vidyavihar,Vashi,8.8,10
+Vidyavihar,Sanpada,10.8,15
+Vidyavihar,Panvel,14.3,15
+Ghatkopar,Vikhroli,3.0,5
+Ghatkopar,Kanjur Marg,5.0,5
+Ghatkopar,Bhandup,7.5,10
+Ghatkopar,Nahur,9.5,10
+Ghatkopar,Mulund,11.5,15
+Ghatkopar,Thane,16.5,15
+Ghatkopar,Kalwa,22.5,20
+Ghatkopar,Mumbra,24.5,20
+Ghatkopar,Diva Junction,30.5,25
+Ghatkopar,Kopar,34.5,25
+Ghatkopar,Dombivli,37.0,25
+Ghatkopar,Thakurli,39.5,25
+Ghatkopar,Kalyan Junction,43.5,25
+Ghatkopar,Dockyard Road,13.8,15
+Ghatkopar,Reay Road,12.3,15
+Ghatkopar,Cotton Green,11.1,15
+Ghatkopar,Sewri,10.0,10
+Ghatkopar,Wadala Road,8.8,10
+Ghatkopar,Guru Tegh Bahadur Nagar,7.3,10
+Ghatkopar,Chunabhatti,5.8,10
+Ghatkopar,Tilak Nagar,4.8,5
+Ghatkopar,Chembur,6.3,10
+Ghatkopar,Mankhurd,8.8,10
+Ghatkopar,Vashi,10.8,15
+Ghatkopar,Sanpada,12.8,15
+Ghatkopar,Panvel,16.3,15
+Vikhroli,Kanjur Marg,2.0,5
+Vikhroli,Bhandup,4.5,5
+Vikhroli,Nahur,6.5,10
+Vikhroli,Mulund,8.5,10
+Vikhroli,Thane,13.5,15
+Vikhroli,Kalwa,19.5,15
+Vikhroli,Mumbra,21.5,20
+Vikhroli,Diva Junction,27.5,20
+Vikhroli,Kopar,31.5,25
+Vikhroli,Dombivli,34.0,25
+Vikhroli,Thakurli,36.5,25
+Vikhroli,Kalyan Junction,40.5,25
+Vikhroli,Dockyard Road,16.8,15
+Vikhroli,Reay Road,15.3,15
+Vikhroli,Cotton Green,14.1,15
+Vikhroli,Sewri,13.0,15
+Vikhroli,Wadala Road,11.8,15
+Vikhroli,Guru Tegh Bahadur Nagar,10.3,15
+Vikhroli,Chunabhatti,8.8,10
+Vikhroli,Tilak Nagar,7.8,10
+Vikhroli,Chembur,9.3,10
+Vikhroli,Mankhurd,11.8,15
+Vikhroli,Vashi,13.8,15
+Vikhroli,Sanpada,15.8,15
+Vikhroli,Panvel,19.3,15
+Kanjur Marg,Bhandup,2.5,5
+Kanjur Marg,Nahur,4.5,5
+Kanjur Marg,Mulund,6.5,10
+Kanjur Marg,Thane,11.5,15
+Kanjur Marg,Kalwa,17.5,15
+Kanjur Marg,Mumbra,19.5,15
+Kanjur Marg,Diva Junction,25.5,20
+Kanjur Marg,Kopar,29.5,20
+Kanjur Marg,Dombivli,32.0,25
+Kanjur Marg,Thakurli,34.5,25
+Kanjur Marg,Kalyan Junction,38.5,25
+Kanjur Marg,Dockyard Road,18.8,15
+Kanjur Marg,Reay Road,17.3,15
+Kanjur Marg,Cotton Green,16.1,15
+Kanjur Marg,Sewri,15.0,15
+Kanjur Marg,Wadala Road,13.8,15
+Kanjur Marg,Guru Tegh Bahadur Nagar,12.3,15
+Kanjur Marg,Chunabhatti,10.8,15
+Kanjur Marg,Tilak Nagar,9.8,10
+Kanjur Marg,Chembur,11.3,15
+Kanjur Marg,Mankhurd,13.8,15
+Kanjur Marg,Vashi,15.8,15
+Kanjur Marg,Sanpada,17.8,15
+Kanjur Marg,Panvel,21.3,20
+Bhandup,Nahur,2.0,5
+Bhandup,Mulund,4.0,5
+Bhandup,Thane,9.0,10
+Bhandup,Kalwa,15.0,15
+Bhandup,Mumbra,17.0,15
+Bhandup,Diva Junction,23.0,20
+Bhandup,Kopar,27.0,20
+Bhandup,Dombivli,29.5,20
+Bhandup,Thakurli,32.0,25
+Bhandup,Kalyan Junction,36.0,25
+Bhandup,Dockyard Road,21.3,20
+Bhandup,Reay Road,19.8,15
+Bhandup,Cotton Green,18.6,15
+Bhandup,Sewri,17.5,15
+Bhandup,Wadala Road,16.3,15
+Bhandup,Guru Tegh Bahadur Nagar,14.8,15
+Bhandup,Chunabhatti,13.3,15
+Bhandup,Tilak Nagar,12.3,15
+Bhandup,Chembur,13.8,15
+Bhandup,Mankhurd,16.3,15
+Bhandup,Vashi,18.3,15
+Bhandup,Sanpada,20.3,20
+Bhandup,Panvel,23.8,20
+Nahur,Mulund,2.0,5
+Nahur,Thane,7.0,10
+Nahur,Kalwa,13.0,15
+Nahur,Mumbra,15.0,15
+Nahur,Diva Junction,21.0,20
+Nahur,Kopar,25.0,20
+Nahur,Dombivli,27.5,20
+Nahur,Thakurli,30.0,20
+Nahur,Kalyan Junction,34.0,25
+Nahur,Dockyard Road,23.3,20
+Nahur,Reay Road,21.8,20
+Nahur,Cotton Green,20.6,20
+Nahur,Sewri,19.5,15
+Nahur,Wadala Road,18.3,15
+Nahur,Guru Tegh Bahadur Nagar,16.8,15
+Nahur,Chunabhatti,15.3,15
+Nahur,Tilak Nagar,14.3,15
+Nahur,Chembur,15.8,15
+Nahur,Mankhurd,18.3,15
+Nahur,Vashi,20.3,20
+Nahur,Sanpada,22.3,20
+Nahur,Panvel,25.8,20
+Mulund,Thane,5.0,5
+Mulund,Kalwa,11.0,15
+Mulund,Mumbra,13.0,15
+Mulund,Diva Junction,19.0,15
+Mulund,Kopar,23.0,20
+Mulund,Dombivli,25.5,20
+Mulund,Thakurli,28.0,20
+Mulund,Kalyan Junction,32.0,25
+Mulund,Dockyard Road,25.3,20
+Mulund,Reay Road,23.8,20
+Mulund,Cotton Green,22.6,20
+Mulund,Sewri,21.5,20
+Mulund,Wadala Road,20.3,20
+Mulund,Guru Tegh Bahadur Nagar,18.8,15
+Mulund,Chunabhatti,17.3,15
+Mulund,Tilak Nagar,16.3,15
+Mulund,Chembur,17.8,15
+Mulund,Mankhurd,20.3,20
+Mulund,Vashi,22.3,20
+Mulund,Sanpada,24.3,20
+Mulund,Panvel,27.8,20
+Thane,Kalwa,6.0,10
+Thane,Mumbra,8.0,10
+Thane,Diva Junction,14.0,15
+Thane,Kopar,18.0,15
+Thane,Dombivli,20.5,20
+Thane,Thakurli,23.0,20
+Thane,Kalyan Junction,27.0,20
+Thane,Dockyard Road,30.3,25
+Thane,Reay Road,28.8,20
+Thane,Cotton Green,27.6,20
+Thane,Sewri,26.5,20
+Thane,Wadala Road,25.3,20
+Thane,Guru Tegh Bahadur Nagar,23.8,20
+Thane,Chunabhatti,22.3,20
+Thane,Tilak Nagar,21.3,20
+Thane,Chembur,22.8,20
+Thane,Mankhurd,25.3,20
+Thane,Vashi,27.3,20
+Thane,Sanpada,29.3,20
+Thane,Panvel,32.8,25
+Kalwa,Mumbra,2.0,5
+Kalwa,Diva Junction,8.0,10
+Kalwa,Kopar,12.0,15
+Kalwa,Dombivli,14.5,15
+Kalwa,Thakurli,17.0,15
+Kalwa,Kalyan Junction,21.0,20
+Kalwa,Dockyard Road,36.3,25
+Kalwa,Reay Road,34.8,25
+Kalwa,Cotton Green,33.6,25
+Kalwa,Sewri,32.5,25
+Kalwa,Wadala Road,31.3,25
+Kalwa,Guru Tegh Bahadur Nagar,29.8,20
+Kalwa,Chunabhatti,28.3,20
+Kalwa,Tilak Nagar,27.3,20
+Kalwa,Chembur,28.8,20
+Kalwa,Mankhurd,31.3,25
+Kalwa,Vashi,33.3,25
+Kalwa,Sanpada,35.3,25
+Kalwa,Panvel,38.8,25
+Mumbra,Diva Junction,6.0,10
+Mumbra,Kopar,10.0,10
+Mumbra,Dombivli,12.5,15
+Mumbra,Thakurli,15.0,15
+Mumbra,Kalyan Junction,19.0,15
+Mumbra,Dockyard Road,38.3,25
+Mumbra,Reay Road,36.8,25
+Mumbra,Cotton Green,35.6,25
+Mumbra,Sewri,34.5,25
+Mumbra,Wadala Road,33.3,25
+Mumbra,Guru Tegh Bahadur Nagar,31.8,25
+Mumbra,Chunabhatti,30.3,25
+Mumbra,Tilak Nagar,29.3,20
+Mumbra,Chembur,30.8,25
+Mumbra,Mankhurd,33.3,25
+Mumbra,Vashi,35.3,25
+Mumbra,Sanpada,37.3,25
+Mumbra,Panvel,40.8,25
+Diva Junction,Kopar,4.0,5
+Diva Junction,Dombivli,6.5,10
+Diva Junction,Thakurli,9.0,10
+Diva Junction,Kalyan Junction,13.0,15
+Diva Junction,Dockyard Road,44.3,25
+Diva Junction,Reay Road,42.8,25
+Diva Junction,Cotton Green,41.6,25
+Diva Junction,Sewri,40.5,25
+Diva Junction,Wadala Road,39.3,25
+Diva Junction,Guru Tegh Bahadur Nagar,37.8,25
+Diva Junction,Chunabhatti,36.3,25
+Diva Junction,Tilak Nagar,35.3,25
+Diva Junction,Chembur,36.8,25
+Diva Junction,Mankhurd,39.3,25
+Diva Junction,Vashi,41.3,25
+Diva Junction,Sanpada,43.3,25
+Diva Junction,Panvel,46.8,25
+Kopar,Dombivli,2.5,5
+Kopar,Thakurli,5.0,5
+Kopar,Kalyan Junction,9.0,10
+Kopar,Dockyard Road,48.3,25
+Kopar,Reay Road,46.8,25
+Kopar,Cotton Green,45.6,25
+Kopar,Sewri,44.5,25
+Kopar,Wadala Road,43.3,25
+Kopar,Guru Tegh Bahadur Nagar,41.8,25
+Kopar,Chunabhatti,40.3,25
+Kopar,Tilak Nagar,39.3,25
+Kopar,Chembur,40.8,25
+Kopar,Mankhurd,43.3,25
+Kopar,Vashi,45.3,25
+Kopar,Sanpada,47.3,25
+Kopar,Panvel,50.8,25
+Dombivli,Thakurli,2.5,5
+Dombivli,Kalyan Junction,6.5,10
+Dombivli,Dockyard Road,50.8,25
+Dombivli,Reay Road,49.3,25
+Dombivli,Cotton Green,48.1,25
+Dombivli,Sewri,47.0,25
+Dombivli,Wadala Road,45.8,25
+Dombivli,Guru Tegh Bahadur Nagar,44.3,25
+Dombivli,Chunabhatti,42.8,25
+Dombivli,Tilak Nagar,41.8,25
+Dombivli,Chembur,43.3,25
+Dombivli,Mankhurd,45.8,25
+Dombivli,Vashi,47.8,25
+Dombivli,Sanpada,49.8,25
+Dombivli,Panvel,53.3,25
+Thakurli,Kalyan Junction,4.0,5
+Thakurli,Dockyard Road,53.3,25
+Thakurli,Reay Road,51.8,25
+Thakurli,Cotton Green,50.6,25
+Thakurli,Sewri,49.5,25
+Thakurli,Wadala Road,48.3,25
+Thakurli,Guru Tegh Bahadur Nagar,46.8,25
+Thakurli,Chunabhatti,45.3,25
+Thakurli,Tilak Nagar,44.3,25
+Thakurli,Chembur,45.8,25
+Thakurli,Mankhurd,48.3,25
+Thakurli,Vashi,50.3,25
+Thakurli,Sanpada,52.3,25
+Thakurli,Panvel,55.8,25
+Kalyan Junction,Dockyard Road,57.3,25
+Kalyan Junction,Reay Road,55.8,25
+Kalyan Junction,Cotton Green,54.6,25
+Kalyan Junction,Sewri,53.5,25
+Kalyan Junction,Wadala Road,52.3,25
+Kalyan Junction,Guru Tegh Bahadur Nagar,50.8,25
+Kalyan Junction,Chunabhatti,49.3,25
+Kalyan Junction,Tilak Nagar,48.3,25
+Kalyan Junction,Chembur,49.8,25
+Kalyan Junction,Mankhurd,52.3,25
+Kalyan Junction,Vashi,54.3,25
+Kalyan Junction,Sanpada,56.3,25
+Kalyan Junction,Panvel,59.8,25
+Dockyard Road,Reay Road,1.5,5
+Dockyard Road,Cotton Green,2.7,5
+Dockyard Road,Sewri,3.8,5
+Dockyard Road,Wadala Road,5.0,5
+Dockyard Road,Guru Tegh Bahadur Nagar,6.5,10
+Dockyard Road,Chunabhatti,8.0,10
+Dockyard Road,Tilak Nagar,11.0,15
+Dockyard Road,Chembur,12.5,15
+Dockyard Road,Mankhurd,15.0,15
+Dockyard Road,Vashi,17.0,15
+Dockyard Road,Sanpada,19.0,15
+Dockyard Road,Panvel,22.5,20
+Reay Road,Cotton Green,1.2,5
+Reay Road,Sewri,2.3,5
+Reay Road,Wadala Road,3.5,5
+Reay Road,Guru Tegh Bahadur Nagar,5.0,5
+Reay Road,Chunabhatti,6.5,10
+Reay Road,Tilak Nagar,9.5,10
+Reay Road,Chembur,11.0,15
+Reay Road,Mankhurd,13.5,15
+Reay Road,Vashi,15.5,15
+Reay Road,Sanpada,17.5,15
+Reay Road,Panvel,21.0,20
+Cotton Green,Sewri,1.1,5
+Cotton Green,Wadala Road,2.3,5
+Cotton Green,Guru Tegh Bahadur Nagar,3.8,5
+Cotton Green,Chunabhatti,5.3,10
+Cotton Green,Tilak Nagar,8.3,10
+Cotton Green,Chembur,9.8,10
+Cotton Green,Mankhurd,12.3,15
+Cotton Green,Vashi,14.3,15
+Cotton Green,Sanpada,16.3,15
+Cotton Green,Panvel,19.8,15
+Sewri,Wadala Road,1.2,5
+Sewri,Guru Tegh Bahadur Nagar,2.7,5
+Sewri,Chunabhatti,4.2,5
+Sewri,Tilak Nagar,7.2,10
+Sewri,Chembur,8.7,10
+Sewri,Mankhurd,11.2,15
+Sewri,Vashi,13.2,15
+Sewri,Sanpada,15.2,15
+Sewri,Panvel,18.7,15
+Wadala Road,Guru Tegh Bahadur Nagar,1.5,5
+Wadala Road,Chunabhatti,3.0,5
+Wadala Road,Tilak Nagar,6.0,10
+Wadala Road,Chembur,7.5,10
+Wadala Road,Mankhurd,10.0,10
+Wadala Road,Vashi,12.0,15
+Wadala Road,Sanpada,14.0,15
+Wadala Road,Panvel,17.5,15
+Guru Tegh Bahadur Nagar,Chunabhatti,1.5,5
+Guru Tegh Bahadur Nagar,Tilak Nagar,4.5,5
+Guru Tegh Bahadur Nagar,Chembur,6.0,10
+Guru Tegh Bahadur Nagar,Mankhurd,8.5,10
+Guru Tegh Bahadur Nagar,Vashi,10.5,15
+Guru Tegh Bahadur Nagar,Sanpada,12.5,15
+Guru Tegh Bahadur Nagar,Panvel,16.0,15
+Chunabhatti,Tilak Nagar,3.0,5
+Chunabhatti,Chembur,4.5,5
+Chunabhatti,Mankhurd,7.0,10
+Chunabhatti,Vashi,9.0,10
+Chunabhatti,Sanpada,11.0,15
+Chunabhatti,Panvel,14.5,15
+Tilak Nagar,Chembur,1.5,5
+Tilak Nagar,Mankhurd,4.0,5
+Tilak Nagar,Vashi,6.0,10
+Tilak Nagar,Sanpada,8.0,10
+Tilak Nagar,Panvel,11.5,15
+Chembur,Mankhurd,2.5,5
+Chembur,Vashi,4.5,5
+Chembur,Sanpada,6.5,10
+Chembur,Panvel,10.0,10
+Mankhurd,Vashi,2.0,5
+Mankhurd,Sanpada,4.0,5
+Mankhurd,Panvel,7.5,10
+Vashi,Sanpada,2.0,5
+Vashi,Panvel,5.5,10
+Sanpada,Panvel,3.5,5
+Churchgate,Marine Lines,2.0,5
+Churchgate,Charni Road,4.0,5
+Churchgate,Grant Road,6.0,10
+Churchgate,Mumbai Central,8.0,10
+Churchgate,Mahalaxmi,10.0,10
+Churchgate,Lower Parel,12.0,15
+Churchgate,Prabhadevi,14.0,15
+Churchgate,Dadar_W,16.0,15
+Churchgate,Matunga Road,18.0,15
+Churchgate,Mahim Junction,20.0,15
+Churchgate,Bandra,22.0,20
+Churchgate,Khar Road,24.0,20
+Churchgate,Santacruz,26.0,20
+Churchgate,Vile Parle,28.0,20
+Churchgate,Andheri,30.0,20
+Churchgate,Jogeshwari,32.0,25
+Churchgate,Ram Mandir,34.0,25
+Churchgate,Goregaon,36.0,25
+Churchgate,Malad,38.0,25
+Churchgate,Kandivli,40.0,25
+Churchgate,Borivali,42.0,25
+Churchgate,Dahisar,44.0,25
+Churchgate,Mira Road,46.0,25
+Churchgate,Bhayandar,48.0,25
+Churchgate,Naigaon,50.0,25
+Churchgate,Vasai Road,52.0,25
+Churchgate,Nallasopara,54.0,25
+Churchgate,Virar,56.0,25
+Marine Lines,Charni Road,2.0,5
+Marine Lines,Grant Road,4.0,5
+Marine Lines,Mumbai Central,6.0,10
+Marine Lines,Mahalaxmi,8.0,10
+Marine Lines,Lower Parel,10.0,10
+Marine Lines,Prabhadevi,12.0,15
+Marine Lines,Dadar_W,14.0,15
+Marine Lines,Matunga Road,16.0,15
+Marine Lines,Mahim Junction,18.0,15
+Marine Lines,Bandra,20.0,15
+Marine Lines,Khar Road,22.0,20
+Marine Lines,Santacruz,24.0,20
+Marine Lines,Vile Parle,26.0,20
+Marine Lines,Andheri,28.0,20
+Marine Lines,Jogeshwari,30.0,20
+Marine Lines,Ram Mandir,32.0,25
+Marine Lines,Goregaon,34.0,25
+Marine Lines,Malad,36.0,25
+Marine Lines,Kandivli,38.0,25
+Marine Lines,Borivali,40.0,25
+Marine Lines,Dahisar,42.0,25
+Marine Lines,Mira Road,44.0,25
+Marine Lines,Bhayandar,46.0,25
+Marine Lines,Naigaon,48.0,25
+Marine Lines,Vasai Road,50.0,25
+Marine Lines,Nallasopara,52.0,25
+Marine Lines,Virar,54.0,25
+Charni Road,Grant Road,2.0,5
+Charni Road,Mumbai Central,4.0,5
+Charni Road,Mahalaxmi,6.0,10
+Charni Road,Lower Parel,8.0,10
+Charni Road,Prabhadevi,10.0,10
+Charni Road,Dadar_W,12.0,15
+Charni Road,Matunga Road,14.0,15
+Charni Road,Mahim Junction,16.0,15
+Charni Road,Bandra,18.0,15
+Charni Road,Khar Road,20.0,15
+Charni Road,Santacruz,22.0,20
+Charni Road,Vile Parle,24.0,20
+Charni Road,Andheri,26.0,20
+Charni Road,Jogeshwari,28.0,20
+Charni Road,Ram Mandir,30.0,20
+Charni Road,Goregaon,32.0,25
+Charni Road,Malad,34.0,25
+Charni Road,Kandivli,36.0,25
+Charni Road,Borivali,38.0,25
+Charni Road,Dahisar,40.0,25
+Charni Road,Mira Road,42.0,25
+Charni Road,Bhayandar,44.0,25
+Charni Road,Naigaon,46.0,25
+Charni Road,Vasai Road,48.0,25
+Charni Road,Nallasopara,50.0,25
+Charni Road,Virar,52.0,25
+Grant Road,Mumbai Central,2.0,5
+Grant Road,Mahalaxmi,4.0,5
+Grant Road,Lower Parel,6.0,10
+Grant Road,Prabhadevi,8.0,10
+Grant Road,Dadar_W,10.0,10
+Grant Road,Matunga Road,12.0,15
+Grant Road,Mahim Junction,14.0,15
+Grant Road,Bandra,16.0,15
+Grant Road,Khar Road,18.0,15
+Grant Road,Santacruz,20.0,15
+Grant Road,Vile Parle,22.0,20
+Grant Road,Andheri,24.0,20
+Grant Road,Jogeshwari,26.0,20
+Grant Road,Ram Mandir,28.0,20
+Grant Road,Goregaon,30.0,20
+Grant Road,Malad,32.0,25
+Grant Road,Kandivli,34.0,25
+Grant Road,Borivali,36.0,25
+Grant Road,Dahisar,38.0,25
+Grant Road,Mira Road,40.0,25
+Grant Road,Bhayandar,42.0,25
+Grant Road,Naigaon,44.0,25
+Grant Road,Vasai Road,46.0,25
+Grant Road,Nallasopara,48.0,25
+Grant Road,Virar,50.0,25
+Mumbai Central,Mahalaxmi,2.0,5
+Mumbai Central,Lower Parel,4.0,5
+Mumbai Central,Prabhadevi,6.0,10
+Mumbai Central,Dadar_W,8.0,10
+Mumbai Central,Matunga Road,10.0,10
+Mumbai Central,Mahim Junction,12.0,15
+Mumbai Central,Bandra,14.0,15
+Mumbai Central,Khar Road,16.0,15
+Mumbai Central,Santacruz,18.0,15
+Mumbai Central,Vile Parle,20.0,15
+Mumbai Central,Andheri,22.0,20
+Mumbai Central,Jogeshwari,24.0,20
+Mumbai Central,Ram Mandir,26.0,20
+Mumbai Central,Goregaon,28.0,20
+Mumbai Central,Malad,30.0,20
+Mumbai Central,Kandivli,32.0,25
+Mumbai Central,Borivali,34.0,25
+Mumbai Central,Dahisar,36.0,25
+Mumbai Central,Mira Road,38.0,25
+Mumbai Central,Bhayandar,40.0,25
+Mumbai Central,Naigaon,42.0,25
+Mumbai Central,Vasai Road,44.0,25
+Mumbai Central,Nallasopara,46.0,25
+Mumbai Central,Virar,48.0,25
+Mahalaxmi,Lower Parel,2.0,5
+Mahalaxmi,Prabhadevi,4.0,5
+Mahalaxmi,Dadar_W,6.0,10
+Mahalaxmi,Matunga Road,8.0,10
+Mahalaxmi,Mahim Junction,10.0,10
+Mahalaxmi,Bandra,12.0,15
+Mahalaxmi,Khar Road,14.0,15
+Mahalaxmi,Santacruz,16.0,15
+Mahalaxmi,Vile Parle,18.0,15
+Mahalaxmi,Andheri,20.0,15
+Mahalaxmi,Jogeshwari,22.0,20
+Mahalaxmi,Ram Mandir,24.0,20
+Mahalaxmi,Goregaon,26.0,20
+Mahalaxmi,Malad,28.0,20
+Mahalaxmi,Kandivli,30.0,20
+Mahalaxmi,Borivali,32.0,25
+Mahalaxmi,Dahisar,34.0,25
+Mahalaxmi,Mira Road,36.0,25
+Mahalaxmi,Bhayandar,38.0,25
+Mahalaxmi,Naigaon,40.0,25
+Mahalaxmi,Vasai Road,42.0,25
+Mahalaxmi,Nallasopara,44.0,25
+Mahalaxmi,Virar,46.0,25
+Lower Parel,Prabhadevi,2.0,5
+Lower Parel,Dadar_W,4.0,5
+Lower Parel,Matunga Road,6.0,10
+Lower Parel,Mahim Junction,8.0,10
+Lower Parel,Bandra,10.0,10
+Lower Parel,Khar Road,12.0,15
+Lower Parel,Santacruz,14.0,15
+Lower Parel,Vile Parle,16.0,15
+Lower Parel,Andheri,18.0,15
+Lower Parel,Jogeshwari,20.0,15
+Lower Parel,Ram Mandir,22.0,20
+Lower Parel,Goregaon,24.0,20
+Lower Parel,Malad,26.0,20
+Lower Parel,Kandivli,28.0,20
+Lower Parel,Borivali,30.0,20
+Lower Parel,Dahisar,32.0,25
+Lower Parel,Mira Road,34.0,25
+Lower Parel,Bhayandar,36.0,25
+Lower Parel,Naigaon,38.0,25
+Lower Parel,Vasai Road,40.0,25
+Lower Parel,Nallasopara,42.0,25
+Lower Parel,Virar,44.0,25
+Prabhadevi,Dadar_W,2.0,5
+Prabhadevi,Matunga Road,4.0,5
+Prabhadevi,Mahim Junction,6.0,10
+Prabhadevi,Bandra,8.0,10
+Prabhadevi,Khar Road,10.0,10
+Prabhadevi,Santacruz,12.0,15
+Prabhadevi,Vile Parle,14.0,15
+Prabhadevi,Andheri,16.0,15
+Prabhadevi,Jogeshwari,18.0,15
+Prabhadevi,Ram Mandir,20.0,15
+Prabhadevi,Goregaon,22.0,20
+Prabhadevi,Malad,24.0,20
+Prabhadevi,Kandivli,26.0,20
+Prabhadevi,Borivali,28.0,20
+Prabhadevi,Dahisar,30.0,20
+Prabhadevi,Mira Road,32.0,25
+Prabhadevi,Bhayandar,34.0,25
+Prabhadevi,Naigaon,36.0,25
+Prabhadevi,Vasai Road,38.0,25
+Prabhadevi,Nallasopara,40.0,25
+Prabhadevi,Virar,42.0,25
+Dadar_W,Matunga Road,2.0,5
+Dadar_W,Mahim Junction,4.0,5
+Dadar_W,Bandra,6.0,10
+Dadar_W,Khar Road,8.0,10
+Dadar_W,Santacruz,10.0,10
+Dadar_W,Vile Parle,12.0,15
+Dadar_W,Andheri,14.0,15
+Dadar_W,Jogeshwari,16.0,15
+Dadar_W,Ram Mandir,18.0,15
+Dadar_W,Goregaon,20.0,15
+Dadar_W,Malad,22.0,20
+Dadar_W,Kandivli,24.0,20
+Dadar_W,Borivali,26.0,20
+Dadar_W,Dahisar,28.0,20
+Dadar_W,Mira Road,30.0,20
+Dadar_W,Bhayandar,32.0,25
+Dadar_W,Naigaon,34.0,25
+Dadar_W,Vasai Road,36.0,25
+Dadar_W,Nallasopara,38.0,25
+Dadar_W,Virar,40.0,25
+Matunga Road,Mahim Junction,2.0,5
+Matunga Road,Bandra,4.0,5
+Matunga Road,Khar Road,6.0,10
+Matunga Road,Santacruz,8.0,10
+Matunga Road,Vile Parle,10.0,10
+Matunga Road,Andheri,12.0,15
+Matunga Road,Jogeshwari,14.0,15
+Matunga Road,Ram Mandir,16.0,15
+Matunga Road,Goregaon,18.0,15
+Matunga Road,Malad,20.0,15
+Matunga Road,Kandivli,22.0,20
+Matunga Road,Borivali,24.0,20
+Matunga Road,Dahisar,26.0,20
+Matunga Road,Mira Road,28.0,20
+Matunga Road,Bhayandar,30.0,20
+Matunga Road,Naigaon,32.0,25
+Matunga Road,Vasai Road,34.0,25
+Matunga Road,Nallasopara,36.0,25
+Matunga Road,Virar,38.0,25
+Mahim Junction,Bandra,2.0,5
+Mahim Junction,Khar Road,4.0,5
+Mahim Junction,Santacruz,6.0,10
+Mahim Junction,Vile Parle,8.0,10
+Mahim Junction,Andheri,10.0,10
+Mahim Junction,Jogeshwari,12.0,15
+Mahim Junction,Ram Mandir,14.0,15
+Mahim Junction,Goregaon,16.0,15
+Mahim Junction,Malad,18.0,15
+Mahim Junction,Kandivli,20.0,15
+Mahim Junction,Borivali,22.0,20
+Mahim Junction,Dahisar,24.0,20
+Mahim Junction,Mira Road,26.0,20
+Mahim Junction,Bhayandar,28.0,20
+Mahim Junction,Naigaon,30.0,20
+Mahim Junction,Vasai Road,32.0,25
+Mahim Junction,Nallasopara,34.0,25
+Mahim Junction,Virar,36.0,25
+Bandra,Khar Road,2.0,5
+Bandra,Santacruz,4.0,5
+Bandra,Vile Parle,6.0,10
+Bandra,Andheri,8.0,10
+Bandra,Jogeshwari,10.0,10
+Bandra,Ram Mandir,12.0,15
+Bandra,Goregaon,14.0,15
+Bandra,Malad,16.0,15
+Bandra,Kandivli,18.0,15
+Bandra,Borivali,20.0,15
+Bandra,Dahisar,22.0,20
+Bandra,Mira Road,24.0,20
+Bandra,Bhayandar,26.0,20
+Bandra,Naigaon,28.0,20
+Bandra,Vasai Road,30.0,20
+Bandra,Nallasopara,32.0,25
+Bandra,Virar,34.0,25
+Khar Road,Santacruz,2.0,5
+Khar Road,Vile Parle,4.0,5
+Khar Road,Andheri,6.0,10
+Khar Road,Jogeshwari,8.0,10
+Khar Road,Ram Mandir,10.0,10
+Khar Road,Goregaon,12.0,15
+Khar Road,Malad,14.0,15
+Khar Road,Kandivli,16.0,15
+Khar Road,Borivali,18.0,15
+Khar Road,Dahisar,20.0,15
+Khar Road,Mira Road,22.0,20
+Khar Road,Bhayandar,24.0,20
+Khar Road,Naigaon,26.0,20
+Khar Road,Vasai Road,28.0,20
+Khar Road,Nallasopara,30.0,20
+Khar Road,Virar,32.0,25
+Santacruz,Vile Parle,2.0,5
+Santacruz,Andheri,4.0,5
+Santacruz,Jogeshwari,6.0,10
+Santacruz,Ram Mandir,8.0,10
+Santacruz,Goregaon,10.0,10
+Santacruz,Malad,12.0,15
+Santacruz,Kandivli,14.0,15
+Santacruz,Borivali,16.0,15
+Santacruz,Dahisar,18.0,15
+Santacruz,Mira Road,20.0,15
+Santacruz,Bhayandar,22.0,20
+Santacruz,Naigaon,24.0,20
+Santacruz,Vasai Road,26.0,20
+Santacruz,Nallasopara,28.0,20
+Santacruz,Virar,30.0,20
+Vile Parle,Andheri,2.0,5
+Vile Parle,Jogeshwari,4.0,5
+Vile Parle,Ram Mandir,6.0,10
+Vile Parle,Goregaon,8.0,10
+Vile Parle,Malad,10.0,10
+Vile Parle,Kandivli,12.0,15
+Vile Parle,Borivali,14.0,15
+Vile Parle,Dahisar,16.0,15
+Vile Parle,Mira Road,18.0,15
+Vile Parle,Bhayandar,20.0,15
+Vile Parle,Naigaon,22.0,20
+Vile Parle,Vasai Road,24.0,20
+Vile Parle,Nallasopara,26.0,20
+Vile Parle,Virar,28.0,20
+Andheri,Jogeshwari,2.0,5
+Andheri,Ram Mandir,4.0,5
+Andheri,Goregaon,6.0,10
+Andheri,Malad,8.0,10
+Andheri,Kandivli,10.0,10
+Andheri,Borivali,12.0,15
+Andheri,Dahisar,14.0,15
+Andheri,Mira Road,16.0,15
+Andheri,Bhayandar,18.0,15
+Andheri,Naigaon,20.0,15
+Andheri,Vasai Road,22.0,20
+Andheri,Nallasopara,24.0,20
+Andheri,Virar,26.0,20
+Jogeshwari,Ram Mandir,2.0,5
+Jogeshwari,Goregaon,4.0,5
+Jogeshwari,Malad,6.0,10
+Jogeshwari,Kandivli,8.0,10
+Jogeshwari,Borivali,10.0,10
+Jogeshwari,Dahisar,12.0,15
+Jogeshwari,Mira Road,14.0,15
+Jogeshwari,Bhayandar,16.0,15
+Jogeshwari,Naigaon,18.0,15
+Jogeshwari,Vasai Road,20.0,15
+Jogeshwari,Nallasopara,22.0,20
+Jogeshwari,Virar,24.0,20
+Ram Mandir,Goregaon,2.0,5
+Ram Mandir,Malad,4.0,5
+Ram Mandir,Kandivli,6.0,10
+Ram Mandir,Borivali,8.0,10
+Ram Mandir,Dahisar,10.0,10
+Ram Mandir,Mira Road,12.0,15
+Ram Mandir,Bhayandar,14.0,15
+Ram Mandir,Naigaon,16.0,15
+Ram Mandir,Vasai Road,18.0,15
+Ram Mandir,Nallasopara,20.0,15
+Ram Mandir,Virar,22.0,20
+Goregaon,Malad,2.0,5
+Goregaon,Kandivli,4.0,5
+Goregaon,Borivali,6.0,10
+Goregaon,Dahisar,8.0,10
+Goregaon,Mira Road,10.0,10
+Goregaon,Bhayandar,12.0,15
+Goregaon,Naigaon,14.0,15
+Goregaon,Vasai Road,16.0,15
+Goregaon,Nallasopara,18.0,15
+Goregaon,Virar,20.0,15
+Malad,Kandivli,2.0,5
+Malad,Borivali,4.0,5
+Malad,Dahisar,6.0,10
+Malad,Mira Road,8.0,10
+Malad,Bhayandar,10.0,10
+Malad,Naigaon,12.0,15
+Malad,Vasai Road,14.0,15
+Malad,Nallasopara,16.0,15
+Malad,Virar,18.0,15
+Kandivli,Borivali,2.0,5
+Kandivli,Dahisar,4.0,5
+Kandivli,Mira Road,6.0,10
+Kandivli,Bhayandar,8.0,10
+Kandivli,Naigaon,10.0,10
+Kandivli,Vasai Road,12.0,15
+Kandivli,Nallasopara,14.0,15
+Kandivli,Virar,16.0,15
+Borivali,Dahisar,2.0,5
+Borivali,Mira Road,4.0,5
+Borivali,Bhayandar,6.0,10
+Borivali,Naigaon,8.0,10
+Borivali,Vasai Road,10.0,10
+Borivali,Nallasopara,12.0,15
+Borivali,Virar,14.0,15
+Dahisar,Mira Road,2.0,5
+Dahisar,Bhayandar,4.0,5
+Dahisar,Naigaon,6.0,10
+Dahisar,Vasai Road,8.0,10
+Dahisar,Nallasopara,10.0,10
+Dahisar,Virar,12.0,15
+Mira Road,Bhayandar,2.0,5
+Mira Road,Naigaon,4.0,5
+Mira Road,Vasai Road,6.0,10
+Mira Road,Nallasopara,8.0,10
+Mira Road,Virar,10.0,10
+Bhayandar,Naigaon,2.0,5
+Bhayandar,Vasai Road,4.0,5
+Bhayandar,Nallasopara,6.0,10
+Bhayandar,Virar,8.0,10
+Naigaon,Vasai Road,2.0,5
+Naigaon,Nallasopara,4.0,5
+Naigaon,Virar,6.0,10
+Vasai Road,Nallasopara,2.0,5
+Vasai Road,Virar,4.0,5
+Nallasopara,Virar,2.0,5
